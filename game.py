@@ -1,3 +1,10 @@
+###########################################################################
+##                                                                         #
+## Author: Beatrix Woo                                                     #
+## Thursday, September 29, 2020                                            #
+## Description: A text-based game on US State Capitals                     #
+##                                                                         #
+###########################################################################
 
 state_capitals = [
     {'state': 'Alabama',
